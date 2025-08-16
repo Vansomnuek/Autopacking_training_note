@@ -8,7 +8,7 @@
 
 ---
 
-## Trainee Notes
+
 
 ### 🧑‍💻 Natthawut
 > No comment
