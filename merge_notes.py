@@ -1,7 +1,6 @@
 import os
 
-base_dir = "D:/PBQM16/1. New Project/1.MIC_project/Packing_Motor/training-notes"
-
+base_dir = "."
 
 
 def merge_notes(folder_path):
