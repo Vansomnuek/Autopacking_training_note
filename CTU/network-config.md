@@ -1,5 +1,5 @@
 # Network Config
-  # Configure the network and IP settings for the CTU internal controller IIP and the TP-LINK connection within the CTU
+## Configure the network and IP settings for the CTU internal controller IIP and the TP-LINK connection within the CTU
 
 **Date:** YYYY-MM-DD  
 **Trainer:** (Name)

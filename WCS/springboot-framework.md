@@ -1,4 +1,5 @@
 # Springboot Framework
+## Understand and familiarize with annotations and other functions within the SpringBoot framework
 
 **Date:** YYYY-MM-DD  
 **Trainer:** (Name)
@@ -29,6 +30,4 @@
 
 ---
 
-## 📝 Final Summary (after discussion)
-- Main setup steps: ...
-- Critical parameters: ...
+
