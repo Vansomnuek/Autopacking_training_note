@@ -11,6 +11,14 @@
 ## Trainee Notes
 
 ### 🧑‍💻 Natthawut
+> No comment
+
+
+---
+
+## Sikarin
+
+### 🧑‍💻 Sikarin
 - CTU coding
 - **Code Snippet:**
 ```javascript
@@ -25,14 +33,6 @@ router.post('/', async (req, res) => {
   res.json({ success: true });
 });
 ```
-
-
----
-
-## Sikarin
-
-### 🧑‍💻 Sikarin
-> No comment
 
 
 ---
