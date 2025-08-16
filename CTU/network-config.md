@@ -1,4 +1,5 @@
 # Network Config
+  # Configure the network and IP settings for the CTU internal controller IIP and the TP-LINK connection within the CTU
 
 **Date:** YYYY-MM-DD  
 **Trainer:** (Name)
@@ -10,25 +11,50 @@
 ### 🧑‍💻 Suraphop
 - Step 1: ...
 - Step 2: ...
+- Step 3: ....
 - **Code Snippet:**
   ```javascript
   console.log("Example");
   ```
+<pre> ```javascript console.log("Hello"); ``` </pre>
+
+  
+
+
 
 ---
 
 ### 🧑‍💻 Van
-- Note: ...
-- Screenshot: ![](images/bob-step1.png)
+- Step 1: ...
+- Step 2: ...
+- Step 3: ....
+- **Code Snippet:**
+  ```javascript
+  console.log("Example");
+  ```
+<pre> ```javascript console.log("Hello"); ``` </pre>
 
 ---
 
 ### 🧑‍💻 Sikarin
-- Key points: ...
-- Trouble found: ...
+- Step 1: ...
+- Step 2: ...
+- Step 3: ....
+- **Code Snippet:**
+  ```javascript
+  console.log("Example");
+  ```
+<pre> ```javascript console.log("Hello"); ``` </pre>
 
 ---
 
-## 📝 Final Summary (after discussion)
-- Main setup steps: ...
-- Critical parameters: ...
+### 🧑‍💻 Natthawut
+- Step 1: ...
+- Step 2: ...
+- Step 3: ....
+- **Code Snippet:**
+  ```javascript
+  console.log("Example");
+  ```
+<pre> ```javascript console.log("Hello"); ``` </pre>
+
