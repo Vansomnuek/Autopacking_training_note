@@ -1,6 +1,5 @@
-# Task Programming
-## Use visual modules to program CTU action tasks
-
+# RDS Modbus TCP communication
+## Use MODBUS TCP communication protocol for communication with the fork PLC
 **Date:** YYYY-MM-DD  
 **Trainer:** (Name)
 

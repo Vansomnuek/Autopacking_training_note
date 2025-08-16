@@ -1,5 +1,5 @@
-# Task Programming
-## Use visual modules to program CTU action tasks
+# Script Programming
+## Write JAVA SCRIPT scripts to achieve data interaction with external systems
 
 **Date:** YYYY-MM-DD  
 **Trainer:** (Name)

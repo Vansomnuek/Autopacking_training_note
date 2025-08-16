@@ -1,5 +1,5 @@
-# Task Programming
-## Use visual modules to program CTU action tasks
+# RDS page functions
+## Learn the functions within RDS pages such as Task Management and Location Management
 
 **Date:** YYYY-MM-DD  
 **Trainer:** (Name)
