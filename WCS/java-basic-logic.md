@@ -1,4 +1,41 @@
-## Natthawut
+# Java Basic Logic
+## Familiarize with the basic logic of the program
+
+**Date:** YYYY-MM-DD  
+**Trainer:** (Name)
+
+---
+
+## Trainee Notes
+
+### 🧑‍💻 Suraphop
+- Step 1: ...
+- Step 2: ...
+- **Code Snippet:**
+  ```javascript
+  console.log("Example");
+  ```
+
+---
+
+### 🧑‍💻 Van
+- Note: ...
+- Screenshot: ![](images/bob-step1.png)
+
+---
+
+### 🧑‍💻 Sikarin
+- Key points: ...
+- Trouble found: ...
+
+---
+
+## 📝 Final Summary (after discussion)
+- Main setup steps: ...
+- Critical parameters: ...
+
+
+---
 
 # Java Basic Logic
 ## Familiarize with the basic logic of the program
@@ -39,8 +76,6 @@
 
 ---
 
-## Sikarin
-
 # Java Basic Logic
 ## Familiarize with the basic logic of the program
 
@@ -79,49 +114,6 @@
 
 
 ---
-
-## Suraphop
-
-# Java Basic Logic
-## Familiarize with the basic logic of the program
-
-**Date:** YYYY-MM-DD  
-**Trainer:** (Name)
-
----
-
-## Trainee Notes
-
-### 🧑‍💻 Suraphop
-- Step 1: ...
-- Step 2: ...
-- **Code Snippet:**
-  ```javascript
-  console.log("Example");
-  ```
-
----
-
-### 🧑‍💻 Van
-- Note: ...
-- Screenshot: ![](images/bob-step1.png)
-
----
-
-### 🧑‍💻 Sikarin
-- Key points: ...
-- Trouble found: ...
-
----
-
-## 📝 Final Summary (after discussion)
-- Main setup steps: ...
-- Critical parameters: ...
-
-
----
-
-## Van
 
 # Java Basic Logic
 ## Familiarize with the basic logic of the program

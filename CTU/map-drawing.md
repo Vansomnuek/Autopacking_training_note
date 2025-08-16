@@ -1,5 +1,3 @@
-## Natthawut
-
 # Map Drawing
 ## Scan and draw maps; set routes, stations, and other information
 
@@ -15,8 +13,6 @@
 
 
 ---
-
-## Sikarin
 
 ### 🧑‍💻 Sikarin
 - CTU coding
@@ -36,8 +32,6 @@ router.post('/', async (req, res) => {
 
 
 ---
-
-## Suraphop
 
 ### 🧑‍💻 Suraphop
 - Step 1111: ...
@@ -59,8 +53,6 @@ router.post('/', async (req, res) => {
 
 
 ---
-
-## Van
 
 ### 🧑‍💻 Van
 > CTU new run

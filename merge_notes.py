@@ -28,7 +28,7 @@ def merge_notes(folder_path):
             if os.path.exists(file_path):
                 with open(file_path, "r", encoding="utf-8") as f:
                     content = f.read().strip()
-                merged_content.append(f"## {sub}\n\n{content}\n")
+                merged_content.append(f"{content}\n")
 
         if merged_content:
             with open(output_file, "w", encoding="utf-8") as f:
