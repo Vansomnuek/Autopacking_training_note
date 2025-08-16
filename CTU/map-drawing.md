@@ -16,7 +16,7 @@
   ```
 <pre> ```javascript console.log("Hello CTU"); ``` </pre>
   
-<pre> ```Hello line ``` </pre>
+<pre> ```Hello ``` </pre>
 
 
 
