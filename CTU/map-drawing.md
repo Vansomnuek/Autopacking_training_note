@@ -12,7 +12,6 @@
 
 ### 🧑‍💻 Natthawut
 > No comment
----
 
 
 ---
@@ -21,8 +20,6 @@
 
 ### 🧑‍💻 Sikarin
 > No comment
-
----
 
 
 ---
@@ -45,8 +42,7 @@
 
   res.json({ success: true });
 });
-
----
+```
 
 
 ---
