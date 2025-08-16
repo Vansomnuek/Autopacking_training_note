@@ -1,5 +1,5 @@
-# Map Drawing
-## Scan and draw maps; set routes, stations, and other information
+# Model & Recognition
+## Set the CTU model and basic parameters, and configure recognition functions for specific markers
 
 **Date:** YYYY-MM-DD  
 **Trainer:** (Name)
@@ -57,5 +57,4 @@
   console.log("Example");
   ```
 <pre> ```javascript console.log("Hello"); ``` </pre>
-
 
