@@ -6,27 +6,5 @@
 
 ---
 
-## Trainee Notes
-
-### 🧑‍💻 Suraphop
-- Step 1: ...
-- Step 2: ...
-- **Code Snippet:**
-  ```javascript
-  console.log("Example");
-  ```
-
----
-
-### 🧑‍💻 Van
-- Note: ...
-- Screenshot: ![](images/bob-step1.png)
-
----
-
-### 🧑‍💻 Sikarin
-- Key points: ...
-- Trouble found: ...
-
----
-
+### 🧑‍💻 Natthawut
+> No comment

@@ -6,22 +6,5 @@
 
 ---
 
-## Trainee Notes
-
-### 🧑‍💻 Suraphop
-- Note: ...
-
----
-
-### 🧑‍💻 Van
-- Note: ...
-- Screenshot: ![](images/bob-step1.png)
-
----
-
-### 🧑‍💻 Sikarin
-- Key points: ...
-- Trouble found: ...
-
----
-
+### 🧑‍💻 Natthawut
+> No comment
