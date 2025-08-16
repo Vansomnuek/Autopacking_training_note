@@ -16,8 +16,8 @@
   console.log("Example");
   ```
 <pre> ```javascript console.log("Hello CTU"); ``` </pre>
+<pre> ```javascript console.log("Hello CTU"); ``` </pre>
   
-<pre> ```Hello ``` </pre>
 
 
 
