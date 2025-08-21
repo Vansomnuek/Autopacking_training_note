@@ -1,8 +1,8 @@
 # Installation
 ## Installation and operation of the RDS program; activation of licenses, etc.
 
-**Date:** YYYY-MM-DD  
-**Trainer:** (Name)
+**Date:** 2025-08-20  
+**Trainer:** (Ms.Shen)
 
 ---
 

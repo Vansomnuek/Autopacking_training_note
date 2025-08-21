@@ -1,16 +1,4 @@
 ### 🧑‍💻 Suraphop
-- CTU coding
-- **Code Snippet:**
-```javascript
-router.post('/', async (req, res) => {
-  const start = Date.now();
-  
-  await doLoginCheck();
+> No comment
 
-  const duration = Date.now() - start;
-  console.log(`[api_login] took ${duration}ms`);
-
-  res.json({ success: true });
-});
-```
 
