@@ -2,7 +2,7 @@
 ## Set the CTU model and basic parameters, and configure recognition functions for specific markers
 
 **Date:** 2025-08-19  
-**Trainer:** Ms.Shen
+**Trainer:** (Ms.Shen)
 
 ---
 
