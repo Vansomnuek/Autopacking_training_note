@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 Sikarin
 ## RDS UI
-![Image](/doc/image/rdsUI.jpg)
+![Image](/doc/image/RDS.JPG)
 
 
 ---
